@@ -1,3 +1,21 @@
+body {
+    background-color: rgb(129, 129, 129);
+}
+
 .col-md-5 img {
     width: 100%;
+    padding-top: 50px;
+}
+
+.masthead {
+    width: 90%;
+    margin-left: 5%;
+}
+
+b {
+    color: rgb(134, 28, 28);
+}
+
+.col-md-7 h3 {
+    padding-top: 50px;
 }
